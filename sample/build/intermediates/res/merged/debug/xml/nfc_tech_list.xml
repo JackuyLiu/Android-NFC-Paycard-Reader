@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <tech-list>
+    	<tech>android.nfc.tech.IsoDep</tech>
+    </tech-list>
+</resources><!-- From: file:/C:/Users/ThinkPad/Desktop/Android-NFC-Paycard-Reader/sample/src/main/res/xml/nfc_tech_list.xml -->
